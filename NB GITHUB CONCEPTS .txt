@@ -3,3 +3,6 @@ hint: index with:
 hint:
 hint:   git rm --cached our_firstfullstack
 
+NOTE:git remote add origin https://github.com/Abdirahmanabdulahi/our_firstfullstack.git
+
+
